@@ -9,7 +9,7 @@ window.__CONST__ENV__ = {
   "VITE_BASE_URL": "https://docstorage.uatsiamsmile.com",
   "VITE_API_URL": "https://apigw.uatsiamsmile.com/docstorage",
   "VITE_APIGW_BASEURL": "https://apigw.uatsiamsmile.com",
-  "VITE_API_DOCUMENT_V2": "https://apigw.uatsiamsmile.com/api",
+  "VITE_API_DOCUMENT_V2": "https://uatdocapi2.siamsmile.co.th/api",
   "VITE_SSO_ISSUER": "https://authlogin.uatsiamsmile.com",
   "VITE_SSO_CLIENT_ID": "3be2a15c-86a2-467d-8a0a-65b71d3427e3",
   "VITE_SSO_SCOPE": "openid profile roles email employee_profile employee_team employee_position employee_department employee_branch docstorage_api sssdoc_api",
